@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Nguyễn Tấn Hải",
+        "tel":"0357866848",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Nguyễn Tấn Sơn",
+        "tel":"0984186195",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Nguyễn Thị Tường Vy",
+        "tel":"0357866848",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Thái Trần Kiều Diễm",
+        "tel":"0378318263",
+        "permission":1
+    },
+    {
+        "id":5,
+        "name":"Nguyễn Văn Tèo",
+        "tel":"0123456789",
+        "permission":3
+    }
+]
